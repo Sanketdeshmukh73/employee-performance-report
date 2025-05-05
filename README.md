@@ -4,8 +4,9 @@ This project generates a professional PDF report from employee performance data 
 
 A Python script to generate PDF reports from CSV data, featuring tables, charts, and summary statistics.
 
-![Example Report]![Screenshot 2025-05-05 133116](https://github.com/user-attachments/assets/91d6a688-c5fa-4f15-9a15-8ddc61298246)
-  *(Replace with your screenshot)*
+![Example Report]
+![Screenshot 2025-05-05 133116](https://github.com/user-attachments/assets/91d6a688-c5fa-4f15-9a15-8ddc61298246)
+
 
 ## Features ✨
 - 📄 **PDF Report Generation** using `FPDF`
